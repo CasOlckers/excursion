@@ -3,5 +3,9 @@
   font-weight: normal;
   font-size: 50px;
   color: white;
-  centered;
+  text-align: center;
+}
+.background {
+  background-color: black;
+  text-align: center;
 }
