@@ -27,3 +27,10 @@
   color: white;
   text-align: center;
 }
+.copyright{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 20px;
+  color: white;
+  text-align: right;
+}
